@@ -7,5 +7,5 @@ $ cat /etc/location
 Norway
 
 $ ls ~/skills/
-Html, Css, JavaScript, Linux, Cybersecurity, Servers, Blockchain, and more!
+Html, Css, JavaScript, Linux, Ai, Servers, Blockchain, and more!
 ```
